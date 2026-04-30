@@ -1,9 +1,5 @@
-phidata
-streamlit
-python-dotenv
 yfinance
-packaging
-duckduckgo-search
-fastapi
-uvicorn
-groq
+streamlit
+plotly
+pandas
+numpy
